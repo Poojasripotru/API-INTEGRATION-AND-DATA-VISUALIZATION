@@ -1,1 +1,14 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
+
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:POTRU POOJA SRI
+
+INTERN ID:CT04DF871
+
+DOMAIN:PYTHON PROGRAMMING
+
+DURATION:4 WEEKS
+
+MENTOR: NEELA SANTHOSH![Screenshot 2025-06-08 104646](https://github.com/user-attachments/assets/bd13158c-67da-45e2-bde3-6cd2d7da8e89)
+![Screenshot 2025-06-08 104629](https://github.com/user-attachments/assets/42bdc1be-4edb-4434-a6f9-4a4ec0c00d47)
